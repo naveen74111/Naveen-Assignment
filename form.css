@@ -1,0 +1,51 @@
+
+
+body{
+        background-color: aquamarine;
+}
+
+/* .contact-Form{
+        max-width: 350px;
+        margin: auto;
+        border-radius: 5px;
+        background-color: blueviolet;
+        padding: 20px;
+        
+} */
+.submit{
+        margin-left: 50px;
+        padding: 15px;
+        outline: none;
+        border: none;
+        border-radius: 10px;
+        letter-spacing: 2px;
+        background-color: blue;
+}
+
+.rect{
+    border: 3px solid black;
+    height: 650px;
+    width: 550px;
+
+    margin-top: 50px;
+    margin-bottom: 400px;
+    margin-left: 450px;
+   /*  margin-right: 500px; */
+    background-color: rgb(231, 128, 201);
+
+    border-bottom-left-radius:30px ;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+
+}
+
+.center{
+        text-align: center;
+        margin-top: 20px;
+	  padding:0px;
+}
+
+.a{
+    padding: 10px;
+}
